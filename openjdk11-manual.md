@@ -1,6 +1,6 @@
 # Инструкция по установке OpenJDK11
 
-**Важно**: если у вас что-то не получилось, то оформляйте Issue [по установленным правилам](../report-requirements.md).
+**Важно**: если у вас что-то не получилось, то оформляйте Issue [по установленным правилам](https://github.com/AMuzhev/Instructions/blob/main/report-requirements.md).
 
 ## Windows
 
